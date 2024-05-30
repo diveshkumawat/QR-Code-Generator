@@ -1,0 +1,17 @@
+{
+  "name": "divesh",
+  "version": "1.0.0",
+  "description": "divesh kumawatqr scan",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "inquirer": "^9.2.22",
+    "qr-image": "^3.2.0"
+  }
+}
